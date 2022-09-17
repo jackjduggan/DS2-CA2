@@ -1,0 +1,115 @@
+<object-stream>
+  <com.hbjdjd.ca2.Map.MapOverlay>
+    <nodes>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 1</name>
+        <x>947</x>
+        <y>624</y>
+        <radius>10.0</radius>
+        <id>1</id>
+        <colorR>0.3387954733077029</colorR>
+        <colorG>0.5468854825098244</colorG>
+        <colorB>0.7728173883817641</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 2</name>
+        <x>887</x>
+        <y>629</y>
+        <radius>10.0</radius>
+        <id>2</id>
+        <colorR>0.39053902871183144</colorR>
+        <colorG>0.05597826424472041</colorG>
+        <colorB>0.7321797460256598</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 3</name>
+        <x>893</x>
+        <y>551</y>
+        <radius>10.0</radius>
+        <id>3</id>
+        <colorR>0.05677623056452563</colorR>
+        <colorG>0.8835083468869505</colorG>
+        <colorB>0.7379882239737716</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 4</name>
+        <x>886</x>
+        <y>489</y>
+        <radius>10.0</radius>
+        <id>4</id>
+        <colorR>0.9347944498474855</colorR>
+        <colorG>0.0971907173725216</colorG>
+        <colorB>0.3395802795668773</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 5</name>
+        <x>810</x>
+        <y>480</y>
+        <radius>10.0</radius>
+        <id>5</id>
+        <colorR>0.3333114099816492</colorR>
+        <colorG>0.48933973972555056</colorG>
+        <colorB>0.6117020062046591</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 6</name>
+        <x>756</x>
+        <y>490</y>
+        <radius>10.0</radius>
+        <id>6</id>
+        <colorR>0.6624533758510108</colorR>
+        <colorG>0.6367354462660385</colorG>
+        <colorB>0.7987888623039711</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 7</name>
+        <x>732</x>
+        <y>486</y>
+        <radius>10.0</radius>
+        <id>7</id>
+        <colorR>0.42604983029138277</colorR>
+        <colorG>0.2920011728225136</colorG>
+        <colorB>0.2668620491988649</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 8</name>
+        <x>713</x>
+        <y>410</y>
+        <radius>10.0</radius>
+        <id>8</id>
+        <colorR>0.10110805730596317</colorR>
+        <colorG>0.8363769530123328</colorG>
+        <colorB>0.4191045922858938</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+      <com.hbjdjd.ca2.Map.Node>
+        <name>Room: 9</name>
+        <x>708</x>
+        <y>348</y>
+        <radius>10.0</radius>
+        <id>9</id>
+        <colorR>0.40139191876971214</colorR>
+        <colorG>0.15592708695779522</colorG>
+        <colorB>0.15064613670543403</colorB>
+        <interimCost>2147483647</interimCost>
+        <edges/>
+      </com.hbjdjd.ca2.Map.Node>
+    </nodes>
+    <imageURL>file:/C:/Users/repti/IntelliJIDEAProjects/CA2/target/classes/com/hbjdjd/ca2/image2.png</imageURL>
+  </com.hbjdjd.ca2.Map.MapOverlay>
+</object-stream>
